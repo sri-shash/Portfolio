@@ -34,4 +34,5 @@ Let’s talk about your data challenges
 
 ---
 
-💬 Send me your data problem — I usually respond within **24 hours**.
+💬 If you’d like me to automate, clean, or analyze your data — just drop me an email or message.
+I usually respond within 24 hours
