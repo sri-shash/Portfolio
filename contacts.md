@@ -3,7 +3,14 @@ layout: default
 title: Contact
 permalink: /contact/
 ---
-[🏠 Home](/Portfolio/) · [Services](/Portfolio/services/) · [Projects](/Portfolio/projects/) · [About](/Portfolio/about/) · [Contact](/Portfolio/contact/)
+<nav style="text-align:center; margin: 0 0 18px;">
+  <a href="{{ site.baseurl }}/" style="margin:0 8px; text-decoration:none;">🏠 Home</a> ·
+  <a href="{{ site.baseurl }}/services/" style="margin:0 8px; text-decoration:none;">Services</a> ·
+  <a href="{{ site.baseurl }}/projects/" style="margin:0 8px; text-decoration:none;">Projects</a> ·
+  <a href="{{ site.baseurl }}/about/" style="margin:0 8px; text-decoration:none;">About</a> ·
+  <a href="{{ site.baseurl }}/contact/" style="margin:0 8px; text-decoration:none;">Contact</a>
+</nav>
+<hr style="max-width:720px; margin: 0 auto 22px; border:0; border-top:1px solid #eaecef;">
 
 
 # Contact Me
