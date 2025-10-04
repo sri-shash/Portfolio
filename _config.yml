@@ -5,5 +5,6 @@ author:
   email: "sri.shash93@gmail.com"
 theme: jekyll-theme-cayman
 
+# So links work everywhere
 url: "https://sri-shash.github.io"
 baseurl: "/Portfolio"
