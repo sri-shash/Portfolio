@@ -4,9 +4,9 @@ title: Home
 permalink: /
 ---
 
-[About](/Portfolio/about/) · [Services](/Portfolio/services/) · [Projects](/Portfolio/projects/) · [Contact](/Portfolio/contact/)
+# I automate your messy data so you can focus on decisions, not spreadsheets.  
 
-# I automate your messy data so you can focus on decisions, not spreadsheets.
 Python automation, Excel cleanup, reporting & dashboards.  
 
-📧 **Email:** sri.shash93@gmail.com
+📧 [sri.shash93@gmail.com](mailto:sri.shash93@gmail.com)  
+📱 [+353 894998326](tel:+353894998326)  
