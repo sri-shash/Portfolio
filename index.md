@@ -10,3 +10,7 @@ Python automation, Excel cleanup, reporting & dashboards.
 
 📧 [sri.shash93@gmail.com](mailto:sri.shash93@gmail.com)  
 📱 [+353 894998326](tel:+353894998326)  
+
+---
+
+[👉 Hire Me](./contact/)  
