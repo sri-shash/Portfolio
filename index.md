@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Home
 permalink: /
 ---
@@ -8,4 +8,3 @@ permalink: /
 Python automation, Excel cleanup, reporting & dashboards.  
 
 📧 **Email:** sri.shash93@gmail.com
-
