@@ -3,6 +3,7 @@ layout: default
 title: Services
 permalink: /services/
 ---
+[🏠 Home](/Portfolio/) · [Services](/Portfolio/services/) · [Projects](/Portfolio/projects/) · [About](/Portfolio/about/) · [Contact](/Portfolio/contact/)
 
 # Services
 
