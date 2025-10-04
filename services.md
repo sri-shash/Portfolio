@@ -4,16 +4,20 @@ title: Services
 permalink: /services/
 ---
 
-## Services
-### Excel & Data Cleanup
-Standardize formats, deduplicate, fix types, and deliver a clean file.
+# Services
 
-### Python Automation
-Turn repetitive steps into one-click scripts or scheduled jobs.
+Here’s how I can help you:
 
-### Reporting & Dashboards
-Pivots, summaries, and charts you can actually use.
+- **Excel Automation & Cleanup**  
+  Fix messy sheets, handle duplicates, errors, and create repeatable workflows.
 
-**Deliverables you get:** the cleaned dataset, a reusable script/notebook, and a short how-to.
+- **Python Automation**  
+  Build custom scripts to save time — from report generation to data validation.
 
-[← Home](/Portfolio/) · [About](/Portfolio/about/) · [Projects](/Portfolio/projects/) · [Contact](/Portfolio/contact/)
+- **Dashboards & Reporting**  
+  Turn raw data into clear dashboards so you know what’s happening at a glance.
+
+- **Data QA & Validation**  
+  Ensure accuracy, consistency, and reliability of your data.
+
+💡 First project? I often start with a **small free task** so you can see results before committing.
