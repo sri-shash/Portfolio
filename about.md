@@ -4,11 +4,12 @@ title: About
 permalink: /about/
 ---
 
-## About Me
-I’m Shash — QA lead, finance/trading analyst, and data-automation specialist.
+# About Me
 
-I help teams save hours by automating Excel tasks, cleaning messy datasets, and turning chaos into clear reports. I also serve on the finance committee of a Vipassana trust, handling financial oversight and process improvement.
+Hi, I’m **Shash** 👋  
 
-**Stack:** Python (pandas), Excel, CSV/JSON, simple APIs, Google Sheets.
+I help businesses and individuals automate their messy data so they can focus on **decisions, not spreadsheets**.  
 
-[← Home](/Portfolio/) · [Services](/Portfolio/services/) · [Projects](/Portfolio/projects/) · [Contact](/Portfolio/contact/)
+With a background in **QA, finance, and trading analysis**, plus hands-on experience with **Python automation, Excel reporting, and data cleanup**, I bring efficiency and clarity to workflows that otherwise eat up hours.  
+
+When I’m not wrangling data, you’ll find me exploring fitness, trading strategies, or Vipassana meditation.  
