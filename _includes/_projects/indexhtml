@@ -1,0 +1,30 @@
+---
+layout: default
+title: Projects
+permalink: /projects/
+---
+
+{% include nav.html %}
+
+<h1>Projects</h1>
+<div class="grid">
+  {% assign sorted = site.projects | sort: "date" | reverse %}
+  {% for p in sorted %}
+    <article class="card">
+      <h2><a href="{{ p.url }}">{{ p.title }}</a></h2>
+      {% if p.repo_url %}
+        <p><a href="{{ p.repo_url }}">GitHub repo</a></p>
+      {% endif %}
+      {% if p.tags %}
+        <p>{{ p.tags | array_to_sentence_string }}</p>
+      {% endif %}
+      <p><a href="{{ p.url }}">Read more →</a></p>
+    </article>
+  {% endfor %}
+</div>
+
+<style>
+.grid { display:grid; gap:1rem; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); }
+.card { padding:1rem; border:1px solid #eee; border-radius:8px; }
+.card h2 { margin:0 0 .25rem 0; font-size:1.1rem; }
+</style>
