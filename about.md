@@ -4,6 +4,9 @@ title: About
 permalink: /about/
 ---
 
+[🏠 Home](/Portfolio/) · [Services](/Portfolio/services/) · [Projects](/Portfolio/projects/) · [About](/Portfolio/about/) · [Contact](/Portfolio/contact/)
+
+
 # About Me
 
 Hi, I’m **Shash** 👋  
