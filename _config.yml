@@ -3,5 +3,7 @@ description: "Python automation, Excel cleanup & data analysis portfolio"
 author:
   name: "Shash"
   email: "sri.shash93@gmail.com"
-
 theme: jekyll-theme-cayman
+
+url: "https://sri-shash.github.io"
+baseurl: "/Portfolio"
