@@ -4,16 +4,27 @@ title: Projects
 permalink: /projects/
 ---
 
-## Projects
-**Sales cleanup automation (demo)**  
-Before: 10k-row export with duplicates, mixed date formats, and blank IDs.  
-After: clean dataset + monthly pivot and chart. Saved ~3 hours/week for the team.  
-**Stack:** Python, pandas, Excel.
+# Projects
 
-**Trading backtest (demo)**  
-Parsed tick/volume data, enforced entry/exit rules, produced equity curve and stats (win rate, PF, max DD).  
-**Stack:** Python, pandas, matplotlib.
+A few highlights from my work:
 
-> Want a real case study with your data? I’ll do a small starter task free in exchange for a testimonial.
+### ✅ Excel Cleanup & Automation
+- Took a large messy Excel file with duplicates and errors.  
+- Automated cleaning + formatting in Python.  
+- Reduced processing time from **4 hours to 10 minutes**.
 
-[← Home](/Portfolio/) · [About](/Portfolio/about/) · [Services](/Portfolio/services/) · [Contact](/Portfolio/contact/)
+---
+
+### ✅ Reporting Dashboard
+- Built a custom dashboard that combined finance + operations data.  
+- Allowed management to track KPIs in real-time.  
+
+---
+
+### ✅ Python Data QA Script
+- Automated detection of missing values, inconsistent entries, and anomalies.  
+- Saved a team 20+ hours a month in manual checks.  
+
+---
+
+*(More projects coming soon — including testimonials from real clients.)*
