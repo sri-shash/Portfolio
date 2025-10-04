@@ -1,13 +1,7 @@
 title: "Shash Data Automation"
 description: "Python automation, Excel cleanup & data analysis portfolio"
-url: "https://sri-shash.github.io/Portfolio"
 author:
   name: "Shash"
   email: "sri.shash93@gmail.com"
 
-remote_theme: "Phlow/feeling-responsive"
-
-plugins:
-  - jekyll-remote-theme
-  - jekyll-seo-tag
-  - jekyll-sitemap
+theme: jekyll-theme-cayman
