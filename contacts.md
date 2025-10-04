@@ -4,10 +4,13 @@ title: Contact
 permalink: /contact/
 ---
 
-## Contact
-Email me what you need automated or cleaned and attach a small sample file.
+# Contact Me
 
-**Email:** sri.shash93@gmail.com  
-**LinkedIn:** https://www.linkedin.com/in/shashwatsrivastava93/
+Let’s talk about your data challenges 🚀  
 
-[← Home](/Portfolio/) · [About](/Portfolio/about/) · [Services](/Portfolio/services/) · [Projects](/Portfolio/projects/)
+📧 **Email:** [sri.shash93@gmail.com](mailto:sri.shash93@gmail.com)  
+
+💼 **GitHub:** [github.com/sri-shash](https://github.com/sri-shash)  
+
+💬 If you’d like me to automate, clean, or analyze your data — just drop me an email.  
+I usually respond within **24 hours**.  
