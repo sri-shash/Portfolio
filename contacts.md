@@ -3,6 +3,8 @@ layout: default
 title: Contact
 permalink: /contact/
 ---
+[🏠 Home](/Portfolio/) · [Services](/Portfolio/services/) · [Projects](/Portfolio/projects/) · [About](/Portfolio/about/) · [Contact](/Portfolio/contact/)
+
 
 # Contact Me
 
