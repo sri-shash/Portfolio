@@ -3,23 +3,35 @@ layout: default
 title: Contact
 permalink: /contact/
 ---
-<nav style="text-align:center; margin: 0 0 18px;">
-  <a href="{{ site.baseurl }}/" style="margin:0 8px; text-decoration:none;">🏠 Home</a> ·
-  <a href="{{ site.baseurl }}/services/" style="margin:0 8px; text-decoration:none;">Services</a> ·
-  <a href="{{ site.baseurl }}/projects/" style="margin:0 8px; text-decoration:none;">Projects</a> ·
-  <a href="{{ site.baseurl }}/about/" style="margin:0 8px; text-decoration:none;">About</a> ·
-  <a href="{{ site.baseurl }}/contact/" style="margin:0 8px; text-decoration:none;">Contact</a>
-</nav>
-<hr style="max-width:720px; margin: 0 auto 22px; border:0; border-top:1px solid #eaecef;">
 
+{% include nav.html %}
 
 # Contact Me
 
-Let’s talk about your data challenges 🚀  
+Let’s talk about your data challenges   
 
-📧 **Email:** [sri.shash93@gmail.com](mailto:sri.shash93@gmail.com)  
-📱 **Phone/WhatsApp:** [+353 894998326](tel:+353894998326)  
-💼 **GitHub:** [github.com/sri-shash](https://github.com/sri-shash)  
+📧 [sri.shash93@gmail.com](mailto:sri.shash93@gmail.com)  
+📱 [+353 894998326](tel:+353894998326)  
+💼 [GitHub](https://github.com/sri-shash)  
+🔗 [LinkedIn](https://www.linkedin.com/in/shashwatsrivastava93/)  
 
-💬 If you’d like me to automate, clean, or analyze your data — just drop me an email or message.  
-I usually respond within **24 hours**.  
+---
+
+<div style="text-align:center; margin-top:20px;">
+  <a href="https://www.linkedin.com/in/shashwatsrivastava93/" target="_blank" style="
+    background-color:#0a66c2;
+    color:#fff;
+    padding:12px 24px;
+    text-decoration:none;
+    font-weight:bold;
+    border-radius:6px;
+    font-size:16px;
+    display:inline-block;
+  ">
+    🔗 Connect with me on LinkedIn
+  </a>
+</div>
+
+---
+
+💬 Send me your data problem — I usually respond within **24 hours**.
