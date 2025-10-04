@@ -8,3 +8,8 @@ theme: jekyll-theme-cayman
 # So links work everywhere
 url: "https://sri-shash.github.io"
 baseurl: "/Portfolio"
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
