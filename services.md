@@ -12,7 +12,6 @@ permalink: /services/
 </nav>
 <hr style="max-width:720px; margin: 0 auto 22px; border:0; border-top:1px solid #eaecef;">
 
-[🏠 Home](/Portfolio/) · [Services](/Portfolio/services/) · [Projects](/Portfolio/projects/) · [About](/Portfolio/about/) · [Contact](/Portfolio/contact/)
 
 # Services
 
