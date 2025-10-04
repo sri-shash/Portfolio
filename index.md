@@ -22,24 +22,16 @@ Python automation, Excel cleanup, reporting & dashboards.
     border-radius:6px;
     font-size:16px;
     display:inline-block;
-  ">
-    👉 Hire Me
+  ">👉 Hire Me</a>
+</div>
+
 <!-- Testimonials -->
 <section style="max-width:900px; margin:40px auto;">
   <h2 style="text-align:center; margin-bottom:18px;">Testimonials</h2>
-  <div style="
-      display:grid;
-      grid-template-columns:repeat(auto-fit,minmax(260px,1fr));
-      gap:16px;
-    ">
-    <!-- Card 1 -->
-    <div style="
-        background:#fff;
-        border:1px solid #e5e7eb;
-        border-radius:10px;
-        padding:18px 18px 14px;
-        box-shadow:0 2px 8px rgba(0,0,0,0.05);
-      ">
+
+  <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(260px,1fr)); gap:16px;">
+
+    <div style="background:#fff; border:1px solid #e5e7eb; border-radius:10px; padding:18px 18px 14px; box-shadow:0 2px 8px rgba(0,0,0,0.05);">
       <p style="font-style:italic; margin:0 0 10px;">
         “Shash cleaned and restructured thousands of messy rows. What used to take days is now automated in minutes.”
       </p>
@@ -47,14 +39,7 @@ Python automation, Excel cleanup, reporting & dashboards.
       <div style="color:#6b7280; font-size:14px;">Business Analyst</div>
     </div>
 
-    <!-- Card 2 -->
-    <div style="
-        background:#fff;
-        border:1px solid #e5e7eb;
-        border-radius:10px;
-        padding:18px 18px 14px;
-        box-shadow:0 2px 8px rgba(0,0,0,0.05);
-      ">
+    <div style="background:#fff; border:1px solid #e5e7eb; border-radius:10px; padding:18px 18px 14px; box-shadow:0 2px 8px rgba(0,0,0,0.05);">
       <p style="font-style:italic; margin:0 0 10px;">
         “Monthly reporting is now a one-click script. I save at least six hours every week.”
       </p>
@@ -62,39 +47,13 @@ Python automation, Excel cleanup, reporting & dashboards.
       <div style="color:#6b7280; font-size:14px;">Finance Manager</div>
     </div>
 
-    <!-- Card 3 -->
-    <div style="
-        background:#fff;
-        border:1px solid #e5e7eb;
-        border-radius:10px;
-        padding:18px 18px 14px;
-        box-shadow:0 2px 8px rgba(0,0,0,0.05);
-      ">
+    <div style="background:#fff; border:1px solid #e5e7eb; border-radius:10px; padding:18px 18px 14px; box-shadow:0 2px 8px rgba(0,0,0,0.05);">
       <p style="font-style:italic; margin:0 0 10px;">
         “Clear, efficient, reliable. He turned chaos into a dashboard I actually use to make decisions.”
       </p>
       <div style="font-weight:600;">Priya S.</div>
       <div style="color:#6b7280; font-size:14px;">Startup Founder</div>
     </div>
+
   </div>
 </section>
-
-    ---
-
-# Testimonials  
-
-> *“Shash helped me clean and restructure thousands of messy rows of Excel data in a way that made analysis effortless. What used to take days is now automated in minutes.”*  
-— **Arshita K., Business Analyst**  
-
----
-
-> *“I had no idea how much time I was wasting until Shash automated my monthly reporting. The Python script he built saves me at least 6 hours every week.”*  
-— **Rahul M., Finance Manager**  
-
----
-
-> *“Clear, efficient, and reliable. Shash turned a chaotic dataset into a dashboard I can actually use to make decisions. Highly recommended.”*  
-— **Priya S., Startup Founder**
-
-  </a>
-</div>
