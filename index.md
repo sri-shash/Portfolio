@@ -13,4 +13,17 @@ Python automation, Excel cleanup, reporting & dashboards.
 
 ---
 
-[👉 Hire Me](./contact/)  
+<div style="text-align:center; margin-top:20px;">
+  <a href="./contact/" style="
+    background-color:#2c974b;
+    color:#fff;
+    padding:12px 24px;
+    text-decoration:none;
+    font-weight:bold;
+    border-radius:6px;
+    font-size:16px;
+    display:inline-block;
+  ">
+    👉 Hire Me
+  </a>
+</div>
