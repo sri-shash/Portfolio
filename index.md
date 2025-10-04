@@ -24,6 +24,60 @@ Python automation, Excel cleanup, reporting & dashboards.
     display:inline-block;
   ">
     👉 Hire Me
+<!-- Testimonials -->
+<section style="max-width:900px; margin:40px auto;">
+  <h2 style="text-align:center; margin-bottom:18px;">Testimonials</h2>
+  <div style="
+      display:grid;
+      grid-template-columns:repeat(auto-fit,minmax(260px,1fr));
+      gap:16px;
+    ">
+    <!-- Card 1 -->
+    <div style="
+        background:#fff;
+        border:1px solid #e5e7eb;
+        border-radius:10px;
+        padding:18px 18px 14px;
+        box-shadow:0 2px 8px rgba(0,0,0,0.05);
+      ">
+      <p style="font-style:italic; margin:0 0 10px;">
+        “Shash cleaned and restructured thousands of messy rows. What used to take days is now automated in minutes.”
+      </p>
+      <div style="font-weight:600;">Arshita K.</div>
+      <div style="color:#6b7280; font-size:14px;">Business Analyst</div>
+    </div>
+
+    <!-- Card 2 -->
+    <div style="
+        background:#fff;
+        border:1px solid #e5e7eb;
+        border-radius:10px;
+        padding:18px 18px 14px;
+        box-shadow:0 2px 8px rgba(0,0,0,0.05);
+      ">
+      <p style="font-style:italic; margin:0 0 10px;">
+        “Monthly reporting is now a one-click script. I save at least six hours every week.”
+      </p>
+      <div style="font-weight:600;">Rahul M.</div>
+      <div style="color:#6b7280; font-size:14px;">Finance Manager</div>
+    </div>
+
+    <!-- Card 3 -->
+    <div style="
+        background:#fff;
+        border:1px solid #e5e7eb;
+        border-radius:10px;
+        padding:18px 18px 14px;
+        box-shadow:0 2px 8px rgba(0,0,0,0.05);
+      ">
+      <p style="font-style:italic; margin:0 0 10px;">
+        “Clear, efficient, reliable. He turned chaos into a dashboard I actually use to make decisions.”
+      </p>
+      <div style="font-weight:600;">Priya S.</div>
+      <div style="color:#6b7280; font-size:14px;">Startup Founder</div>
+    </div>
+  </div>
+</section>
 
     ---
 
